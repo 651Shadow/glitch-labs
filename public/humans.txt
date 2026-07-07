@@ -1,0 +1,8 @@
+/* humans.txt — the people and tech behind Glitch Labs */
+Team: Shadow (founder, build) + Alpha (operations)
+Site: glitchlabs.dev
+Tech: React, Vite, TypeScript, Vercel serverless
+Products: developer kits, AI agent configs, web app templates, field guides
+Free tool: DevBox — privacy-first request inspector
+Heritage: theglitchstore.com
+Charity: none

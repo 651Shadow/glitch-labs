@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://glitchlabs.dev/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://glitchlabs.dev/#/products</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://glitchlabs.dev/#/devbox</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://glitchlabs.dev/#/blog</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://glitchlabs.dev/#/post/free-webhook-testing-tool</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://glitchlabs.dev/#/post/build-telegram-bot-without-code</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://glitchlabs.dev/#/post/n8n-ai-agent-templates</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://glitchlabs.dev/#/post/automate-lead-qualification</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://glitchlabs.dev/#/post/self-host-request-bin</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://glitchlabs.dev/#/post/nextjs-saas-starter-template</loc><changefreq>monthly</changefreq></url>
+</urlset>
